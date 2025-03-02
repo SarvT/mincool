@@ -2,7 +2,6 @@
 	"name": "Blue Lime",
 	"type": "dark",
 	"colors": {
-	  // Base UI colors
 	  "editor.background": "#0E1A27",
 	  "editor.foreground": "#ffffff",
 	  "activityBar.background": "#0E1A27",
@@ -12,15 +11,14 @@
 	  "titleBar.activeBackground": "#0E1A27",
 	  "titleBar.activeForeground": "#C2F750",
 	  
-	  // White borders for UI elements
 	  "sideBar.border": "#ffffff33",
 	  "activityBar.border": "#ffffff33",
 	  "panel.border": "#ffffff33",
 	  "statusBar.border": "#ffffff33",
-	  "editorWarning.border": "#ffffff22",
+	  "editor.border": "#ffffff22",
 	  "editorGroup.border": "#ffffff33",
 	  
-	  // Editor elements
+	  
 	  "editor.lineHighlightBackground": "#5363EE22",
 	  "editor.lineHighlightBorder": "#ffffff11",
 	  "editor.selectionBackground": "#5363EE44",
@@ -35,7 +33,7 @@
 	  "editorIndentGuide.activeBackground": "#ffffff44",
 	  "editorBracketMatch.border": "#ffffff55",
 	  
-	  // UI elements
+	  
 	  "editorGroupHeader.tabsBackground": "#0E1A27",
 	  "tab.activeBackground": "#3545D6",
 	  "tab.inactiveBackground": "#0E1A27",
@@ -45,7 +43,7 @@
 	  "tab.activeBorderTop": "#00000000",
 	  "tab.border": "#ffffff22",
 	  
-	  // Lists and trees
+	  
 	  "list.activeSelectionBackground": "#3545D6",
 	  "list.activeSelectionForeground": "#ffffff",
 	  "list.inactiveSelectionBackground": "#3545D644",
@@ -55,14 +53,14 @@
 	  "list.highlightForeground": "#C2F750",
 	  "list.focusOutline": "#ffffff33",
 	  
-	  // Status bar
+	  
 	  "statusBar.background": "#3545D6",
 	  "statusBar.foreground": "#ffffff",
 	  "statusBar.noFolderBackground": "#5363EE",
 	  "statusBar.debuggingBackground": "#C2F750",
 	  "statusBar.debuggingForeground": "#0E1A27",
 	  
-	  // Buttons and inputs
+	  
 	  "button.background": "#5363EE",
 	  "button.foreground": "#ffffff",
 	  "button.hoverBackground": "#3545D6",
@@ -75,7 +73,7 @@
 	  "inputValidation.infoBorder": "#5363EE",
 	  "inputValidation.warningBorder": "#C2F750",
 	  
-	  // Panel and terminal
+	  
 	  "panel.background": "#0E1A27",
 	  "panelTitle.activeBorder": "#C2F750",
 	  "panelTitle.activeForeground": "#ffffff",
@@ -86,48 +84,48 @@
 	  "terminal.ansiBlue": "#5363EE",
 	  "terminal.ansiGreen": "#C2F750",
 	  
-	  // Scrollbars
+	  
 	  "scrollbarSlider.background": "#ffffff33",
 	  "scrollbarSlider.hoverBackground": "#ffffff55",
 	  "scrollbarSlider.activeBackground": "#ffffff77",
 	  
-	  // Activity bar badges
+	  
 	  "activityBarBadge.background": "#C2F750",
 	  "activityBarBadge.foreground": "#0E1A27",
 	  
-	  // Git decorations
+	  
 	  "gitDecoration.modifiedResourceForeground": "#5363EE",
 	  "gitDecoration.addedResourceForeground": "#C2F750",
 	  "gitDecoration.untrackedResourceForeground": "#C2F750CC",
 	  "gitDecoration.deletedResourceForeground": "#FF5555",
 	  
-	  // Peek view
+	  
 	  "peekView.border": "#ffffff55",
 	  "peekViewEditor.background": "#0E1A27",
 	  "peekViewResult.background": "#0E1A27",
 	  "peekViewTitle.background": "#0E1A27",
 	  "peekViewResult.selectionBackground": "#5363EE44",
 	  
-	  // Breadcrumbs
+	  
 	  "breadcrumb.foreground": "#ffffff99",
 	  "breadcrumb.focusForeground": "#ffffff",
 	  "breadcrumb.activeSelectionForeground": "#C2F750",
 	  "breadcrumbPicker.background": "#0E1A27",
 	  
-	  // Settings
+	  
 	  "settings.headerForeground": "#C2F750",
 	  "settings.modifiedItemIndicator": "#5363EE",
 	  "settings.focusedRowBorder": "#ffffff33",
 	  
-	  // Notifications
+	  
 	  "notificationCenter.border": "#ffffff33",
 	  "notificationToast.border": "#ffffff33",
 	  "notifications.border": "#ffffff33",
 	  
-	  // Quick picker
+	  
 	  "pickerGroup.border": "#ffffff33",
 	  
-	  // Widgets
+	  
 	  "widget.shadow": "#00000066",
 	  "editorWidget.background": "#0E1A27",
 	  "editorWidget.border": "#ffffff33",

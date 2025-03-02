@@ -12,9 +12,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "mincool",
+        "label": "mincool blue-lime",
         "uiTheme": "vs-dark",
         "path": "./themes/mincool-color-theme.json"
+      },
+      {
+        "label": "mincool green-forest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mincool-green-forest-theme.json"
+      },
+      {
+        "label": "mincool red-fire",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mincool-red-fire-theme.json"
       }
     ]
   }
