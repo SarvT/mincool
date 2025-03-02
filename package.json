@@ -1,5 +1,6 @@
 {
   "name": "mincool",
+  "icon": "icon.png",
   "displayName": "mincool",
   "description": "the cool theme for your vscode to code.",
   "version": "0.0.1",
@@ -27,5 +28,11 @@
         "path": "./themes/mincool-red-fire-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SarvT/mincool.git"
+  },
+  "publisher": "sarvt",
+  "license": "MIT"
 }
