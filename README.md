@@ -1,11 +1,10 @@
 
 ---
 
-# **MinCool – A Minimal & Cool VS Code Theme **  
+# MinCool – A Minimal & Cool VS Code Theme 
 
 **MinCool** is a clean, minimal, and aesthetically pleasing VS Code theme designed for developers who prefer a cool and distraction-free coding experience.  
 
-![MinCool Theme Banner](https://your-image-url.com) *(Optional: Add a banner image for better presentation)*  
 
 ##  **Features**  
  **Minimalist Design** – Clean, distraction-free interface.  
@@ -17,8 +16,11 @@
 ---
 
 ##  **Preview**  
-*(Optional: Add screenshots showcasing your theme in action. Example:)*  
-![Code Preview](https://your-screenshot-url.com)  
+![RedFire](https://github.com/user-attachments/assets/21f859b2-3eb0-4149-a8d0-d83a372fbc6c)
+![GreenForest](https://github.com/user-attachments/assets/7624558f-4b10-40bf-b3c4-4cfc2f3d7214)
+![BlueLime](https://github.com/user-attachments/assets/6ac2f40f-d64e-4f06-9cfa-d672e00692b3)
+
+
 
 ---
 
