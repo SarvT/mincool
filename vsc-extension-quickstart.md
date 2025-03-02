@@ -1,28 +1,67 @@
-# Welcome to your VS Code Extension
 
-## What's in the folder
+---
 
-* This folder contains all of the files necessary for your color theme extension.
-* `package.json` - this is the manifest file that defines the location of the theme file and specifies the base theme of the theme.
-* `themes/mincool-color-theme.json` - the color theme definition file.
+# **MinCool – A Minimal & Cool VS Code Theme **  
 
-## Get up and running straight away
+**MinCool** is a clean, minimal, and aesthetically pleasing VS Code theme designed for developers who prefer a cool and distraction-free coding experience.  
 
-* Press `F5` to open a new window with your extension loaded.
-* Open the color theme picker with  the `File > Preferences > Theme > Color Theme` menu item, or use the `Preferences: Color Theme command (Ctrl+K Ctrl+T)` and pick your theme
-* Open a file that has a language associated. The languages' configured grammar will tokenize the text and assign 'scopes' to the tokens. To examine these scopes, invoke the `Developer: Inspect Editor Tokens and Scopes` command from the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P` on Mac).
+![MinCool Theme Banner](https://your-image-url.com) *(Optional: Add a banner image for better presentation)*  
 
-## Make changes
+##  **Features**  
+ **Minimalist Design** – Clean, distraction-free interface.  
+ **Cool Color Palette** – Soft, eye-friendly colors for long coding sessions.  
+ **Optimized for Readability** – Perfect contrast between text and background.  
+ **Supports Multiple Languages** – Works seamlessly with JavaScript, Python, C++, HTML, and more.  
+ **Consistent UI Elements** – Styled sidebar, status bar, and activity bar.  
 
-* Changes to the theme file are automatically applied to the Extension Development Host window.
+---
 
-## Adopt your theme to Visual Studio Code
+##  **Preview**  
+*(Optional: Add screenshots showcasing your theme in action. Example:)*  
+![Code Preview](https://your-screenshot-url.com)  
 
-* The token colorization is done based on standard TextMate themes. Colors are matched against one or more scopes.
+---
 
-To learn more about scopes and how they're used, check out the [color theme](https://code.visualstudio.com/api/extension-guides/color-theme) documentation.
+##  **Installation**  
+### **From VS Code Marketplace** *(After Publishing)*  
+1. Open **Extensions** (`Ctrl+Shift+X` or `Cmd+Shift+X` on Mac).  
+2. Search for **"MinCool"**.  
+3. Click **Install** and select the theme.  
 
-## Install your extension
+### **Manual Installation**  
+1. Download the `.vsix` file (if not published yet).  
+2. Open VS Code and run:  
+   ```sh
+   code --install-extension mincool-theme.vsix
+   ```
+3. Select the theme via:  
+   - `File > Preferences > Color Theme`  
+   - Or use `Ctrl+K Ctrl+T` and choose **MinCool**.  
 
-* To start using your extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
-* To share your extension with the world, read on https://code.visualstudio.com/docs about publishing an extension.
+---
+
+## 🛠 **How to Use**  
+1. Open **Command Palette** (`Ctrl+Shift+P` or `Cmd+Shift+P` on Mac).  
+2. Search for **Preferences: Color Theme**.  
+3. Select **MinCool** from the list.  
+
+---
+
+## 🖌 **Customization**  
+If you want to tweak the theme:  
+- Open the `themes/mincool-color-theme.json` file.  
+- Modify colors as needed and save changes.  
+- Restart VS Code or reload the window (`Ctrl+Shift+P` → **Reload Window**).  
+
+---
+
+##  **Feedback & Contributions**  
+ Found an issue? Have a suggestion? [Open an issue](https://github.com/sarvt/mincool/issues).  
+ If you like the theme, please **leave a review** on the VS Code Marketplace!  
+
+---
+
+##  **License**  
+MinCool is licensed under the **MIT License**.  
+
+---

@@ -17,7 +17,7 @@
 	  "activityBar.border": "#ffffff33",
 	  "panel.border": "#ffffff33",
 	  "statusBar.border": "#ffffff33",
-	  "editor.border": "#ffffff22",
+	  "editorWarning.border": "#ffffff22",
 	  "editorGroup.border": "#ffffff33",
 	  
 	  // Editor elements
